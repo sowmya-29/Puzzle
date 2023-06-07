@@ -1,5 +1,5 @@
 # Puzzle
-It is a Python project. Initially the game board consists of 9 numbers arranged randomly.The user needs to arrange these numbers in ascending order.
+It is a Python project. Initially the game board consists of 11 numbers arranged randomly in 3*4 Grid.The user needs to arrange these numbers in ascending order.
 
 Whenever user clicks on a number it checks for the empty space on the four sides and then it will slide where there is empty Space.
 
